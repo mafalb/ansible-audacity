@@ -1,0 +1,5 @@
+---
+- name: package is present
+  package:
+    name: audacity-freeworld
+    state: present
